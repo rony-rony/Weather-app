@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App wrapper without crashing 1`] = `ShallowWrapper {}`;
+
+exports[`should render a Weather 1`] = `ShallowWrapper {}`;
